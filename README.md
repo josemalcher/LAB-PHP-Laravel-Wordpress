@@ -10,8 +10,6 @@
 
 ## Lista de Cursos/Vídeo-aula
 
-Repositórios dos códigos e resumos:
-
 | **Status**  | **Nome/Repositório**  | **Obs.**  |
 |---|---|---|
 | **_80%_**  | [Plano de Estudos- Iniciante em PHP](https://github.com/josemalcher/SchoolOfNet-Iniciante-em-PHP)  |  School of Net |
@@ -22,6 +20,7 @@ Repositórios dos códigos e resumos:
 | **_100%_** | [Programando com o Framework PHP Codeigniter 3](https://github.com/josemalcher/UDEMY-Programando-com-o-Framework-PHP-Codeigniter-3)  |   Udemy |
 | **_0%_**   | [Estrutura de Dados Com PHP e SPL](https://github.com/josemalcher/Estrutura-de-Dados-Com-PHP-e-SPL)  |   UDEMY  |
 | **_100%_** | [Completo de php 7](https://github.com/josemalcher/Udemy-Curso-Completo-de-php-7)  |   UDEMY  |
+| **_70%_**  | [Introdução ao Laravel (5.3)](https://github.com/josemalcher/udemy-Introducao-ao-Laravel-5-3)  | UDEMY  |
 | **_0%_**   | [Curso de Laravel 5.6 - O Framework PHP dos Artesões da Web](https://github.com/josemalcher/udemy-Curso-de-Laravel-5-6-O-Framework-PHP-dos-Artesoes-da-Web)  |   UDEMY  |
 | **_5%_**   | [Laravel facilitando o desenvolvimento PHP](https://github.com/josemalcher/Curso-Laravel-facilitando-o-desenvolvimento-PHP)  |   ALURA  |
 | **_25%_**  | [PHP com Jquery](https://github.com/josemalcher/curso-php-com-jquery)  |   ASoluções Web  |

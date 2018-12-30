@@ -2,9 +2,9 @@
 
 ## Projetos Práticos | Sistemas Desenvolvidos
 
-| **Status**  | **Nome/Repositório**  | **Obs.**  |
-|---|---|---|
-| **_0%_** |  [Agenda Telefônica](https://github.com/josemalcher/Projetos-Praticos-de-Programacao-01-AgendaTelefonica-laravel53)  |  Laravel 5.3  |
+| **Status**  | **Nome/Repositório**  | **Obs.**  |  **pts.**  | 
+|---|---|---|---|
+| **_0%_** |  [Agenda Telefônica](https://github.com/josemalcher/Projetos-Praticos-de-Programacao-01-AgendaTelefonica-laravel53)  |  Laravel 5.3  | 20 |
 
 ------------
 

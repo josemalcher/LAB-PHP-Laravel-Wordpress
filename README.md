@@ -1,10 +1,32 @@
 # LAB-PHP
 
 ## Projetos Práticos | Sistemas Desenvolvidos
-
-| **Status**  | **Nome/Repositório**  | **Obs.**  |  **pts.**  | 
+### [Lista de Projetos Base/Ref.](https://github.com/josemalcher/ListaDeDesafiosProgramacao)
+| **Status**  | **Nome/Repositório**  | **Obs.**  |  **pts.**  |
 |---|---|---|---|
-| **_0%_** |  [Agenda Telefônica](https://github.com/josemalcher/Projetos-Praticos-de-Programacao-01-AgendaTelefonica-laravel53)  |  Laravel 5.3  | 20 |
+| **_0%_** | [Agenda Telefônica](https://github.com/josemalcher/Projetos-Praticos-de-Programacao-01-AgendaTelefonica-laravel53) |  Laravel 5.3  | 20 |
+| **_0%_** | Coisas emprestadas  |  -  | 25 |
+| **_0%_** | Ranking dos amigos  |  -  | 25 |
+| **_0%_** | Ranking de qualquer coisa  |  -  | 30 |
+| **_0%_** | Lista de tarefas  |  -  | 30 |
+| **_0%_** | Filmes favoritos  |  -  | 35 |
+| **_0%_** | Bandas favoritas  |  -  | 35 |
+| **_0%_** | Livros favoritos  |  -  | 35 |
+| **_0%_** | Previsão do tempo da sua cidade  |  -  | 30 |
+| **_0%_** | Inspire-se  |  -  | 30 |
+| **_0%_** | Meus Favoritos  |  -  | 40 |
+| **_0%_** | Email anônimo  |  -  | 40 |
+| **_0%_** | Issues sociais  |  -  | 40 |
+| **_0%_** | Cotação de crypto moedas  |  -  | 50 |
+| **_0%_** | Vai chover  |  -  | 70 |
+| **_0%_** | Distância em músicas   |  -  | 70 |
+| **_0%_** | Meu spotify  |  -  | 60 |
+| **_0%_** | Meus Rádios  |  -  | 65 |
+| **_0%_** | Busca de imagens  |  -  | 55 |
+| **_0%_** | Controle de gastos  |  -  | 80 |
+| **_0%_** | Obter twittes da sua cidade  |  -  | 55 |
+|   |   |   |**Total Concluído**|
+|   |   |   |**000**|
 
 ------------
 

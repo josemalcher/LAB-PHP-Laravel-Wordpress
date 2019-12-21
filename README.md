@@ -1,10 +1,12 @@
 # LAB-PHP
 
-## Projetos Práticos | Sistemas Desenvolvidos
+## Projetos Práticos
 ### [Lista de Projetos Base/Ref.](https://github.com/josemalcher/ListaDeDesafiosProgramacao)
 | **Status**  | **Nome/Repositório**  | **Obs.**  |  **pts.**  |
 |---|---|---|---|
-| **_0%_** | [Agenda Telefônica](https://github.com/josemalcher/Projetos-Praticos-de-Programacao-01-AgendaTelefonica-laravel53) |  Laravel 5.3  | 20 |
+| **_0%_** | Agenda Telefônica|  PHP   | 20 |
+| **_0%_** | [Agenda Telefônica](https://github.com/josemalcher/Projetos-Praticos-de-Programacao-01-AgendaTelefonica-laravel53) |  Laravel   | 20 |
+| **_0%_** | Agenda Telefônica |  Codeigniter   | 20 |
 | **_0%_** | Coisas emprestadas  |  -  | 25 |
 | **_0%_** | Ranking dos amigos  |  -  | 25 |
 | **_0%_** | Ranking de qualquer coisa  |  -  | 30 |
@@ -39,11 +41,20 @@
 | **_100%_** | [CodeIgniter I Programando elegantemente para a web](https://github.com/josemalcher/CodeIgniter-I-Programando-elegantemente-para-a-web)  |   ALURA |
 | **_100%_** | [CodeIgniter II - Mais técnicas e boas práticas](https://github.com/josemalcher/CodeIgniter-II-MaisTecnicas-e-BoasPraticas)  |   ALURA |
 | **_100%_** | [Rbtech CodeIgniter Essencial](https://github.com/josemalcher/rbtech-CodeIgniter-Essencial-2018)  |   Rbtech  |
-| **_100%_** | [Programando com o Framework PHP Codeigniter 3](https://github.com/josemalcher/UDEMY-Programando-com-o-Framework-PHP-Codeigniter-3)  |   Udemy |
+| **_100%_** | [Programando com o Framework PHP Codeigniter 3](https://github.com/josemalcher/UDEMY-Programando-com-o-Framework-PHP-Codeigniter-3)  |   UDEMY |
 | **_0%_**   | [Estrutura de Dados Com PHP e SPL](https://github.com/josemalcher/Estrutura-de-Dados-Com-PHP-e-SPL)  |   UDEMY  |
 | **_100%_** | [Completo de php 7](https://github.com/josemalcher/Udemy-Curso-Completo-de-php-7)  |   UDEMY  |
 | **_100%_**  | [Introdução ao Laravel (5.3)](https://github.com/josemalcher/udemy-Introducao-ao-Laravel-5-3)  | UDEMY  |
 | **_0%_**   | [Curso de Laravel 5.6 - O Framework PHP dos Artesões da Web](https://github.com/josemalcher/udemy-Curso-de-Laravel-5-6-O-Framework-PHP-dos-Artesoes-da-Web)  |   UDEMY  |
+| **_0%_**   | PHP para quem entende PHP  |   UDEMY  |
+| **_0%_**   | Boas práticas em PHP |   UDEMY  |
+| **_0%_**   | Criando um Dashboard do Zero com PHP,MySQL e Bootstrap |   UDEMY  |
+| **_0%_**   | Composer gerenciador de dependências para PHP |   UDEMY  |
+| **_0%_**   | Web Design: Construa Sites com PHP, HTML, CSS e JavaScript |   UDEMY  |
+| **_0%_**   | CRUD Básico com Bootstrap 4 , PHP e MySQL- GRATIS |   UDEMY  |
+| **_0%_**   | Introdução ao Laravel |   UDEMY  |
+| **_0%_**   | Curso de CodeIgniter 3: Desenvolva para web de forma Ágil |   UDEMY  |
+| **_0%_**   | Introdução ao PHPUnit com exemplo de TDD |   UDEMY  |
 | **_5%_**   | [Laravel facilitando o desenvolvimento PHP](https://github.com/josemalcher/Curso-Laravel-facilitando-o-desenvolvimento-PHP)  |   ALURA  |
 | **_25%_**  | [PHP com Jquery](https://github.com/josemalcher/curso-php-com-jquery)  |   ASoluções Web  |
 | **_25%_**  | [AJAX COM PHP](https://github.com/josemalcher/Curso-asolucoesweb-AJAX-com-PHP)  |  Curso ASoluções Web  |

@@ -38,6 +38,35 @@ Meus Resumos e práticas com a liguagem PHP.
 
 | **Status**  | **Nome/Repositório**  | **Obs.**  |
 |---|---|---|
+| **_0%_**  | [Plano de Estudos PHP/Laravel - Fundamentos da Programação com PHP](https://#)  |  Especializa TI |
+| **_0%_**  | [Plano de Estudos PHP/Laravel - Curso PHP OO (Além das Classes)](https://#)  |  Especializa TI |
+| **_0%_**  | [Plano de Estudos PHP/Laravel - Curso PHP PSRs (Boas Práticas)](https://#)  |  Especializa TI |
+| **_0%_**  | [Plano de Estudos PHP/Laravel - Curso PHP PDO](https://#)  |  Especializa TI |
+| **_0%_**  | [Plano de Estudos PHP/Laravel - Curso PHP Composer](https://#)  |  Especializa TI |
+| **_0%_**  | [Plano de Estudos PHP/Laravel - Introdução ao Laravel](https://#)  |  Especializa TI |
+| **_0%_**  | [Plano de Estudos PHP/Laravel - Laravel Relacionamento de Tabelas](https://#)  |  Especializa TI |
+| **_0%_**  | [Plano de Estudos PHP/Laravel - Desenvolvendo um Sistema de Saldo em Laravel (básico/intermediário)](https://#)  |  Especializa TI |
+| **_0%_**  | [Plano de Estudos PHP/Laravel - Criar um sistema de reservas em Laravel (esse curso chega ao nível avançado)](https://#)  |  Especializa TI |
+| **_0%_**  | [Plano de Estudos PHP/Laravel - Curso de Laravel Repositories (boas práticas com banco de dados)](https://#)  |  Especializa TI |
+| **_0%_**  | [Plano de Estudos PHP/Laravel - Curso de Laravel Gráficos (criar gráficos)](https://#)  |  Especializa TI |
+| **_0%_**  | [Outras Opções - Curso de Vue.js](https://#)  |  Especializa TI |
+| **_0%_**  | [Outras Opções - Laravel APIs](https://#)  |  Especializa TI |
+| **_0%_**  | [Outras Opções - Autenticar APIs com JWT](https://#)  |  Especializa TI |
+| **_0%_**  | [Outras Opções - Laravel com Vue.js](https://#)  |  Especializa TI |
+| **_0%_**  | [Sistemas Real-time - Curso de Vue.js (](https://#)  |  Especializa TI |
+| **_0%_**  | [Sistemas Real-time - Curso de Laravel Notificações Real-time](https://#)  |  Especializa TI |
+| **_0%_**  | [Sistemas Real-time - Curso de Laravel Real-time (chat)](https://#)  |  Especializa TI |
+| **_0%_**  | [Outros Interessantes - Curso Deploy na Digital Ocean (2019)](https://#)  |  Especializa TI |
+| **_0%_**  | [Sistemas multi-tenant - Curso Laravel Multi-Tenancy Single Database](https://#)  |  Especializa TI |
+| **_0%_**  | [Sistemas multi-tenant - Curso Laravel Multi-Tenancy Single Database (v2: subdomínio)](https://#)  |  Especializa TI |
+| **_0%_**  | [Sistemas multi-tenant - Curso Laravel Multi-Tenancy Multi Database](https://#)  |  Especializa TI |
+| **_0%_**  | [Carreira em JavaScript - Curso JavaScript Básico](https://#)  |  Especializa TI |
+| **_0%_**  | [Carreira em JavaScript - JavaScript Manipulação do DOM e Eventos](https://#)  |  Especializa TI |
+| **_0%_**  | [Carreira em JavaScript - Curso JavaScript Avançado Objetos e Funções](https://#)  |  Especializa TI |
+| **_0%_**  | [Carreira em JavaScript - Curso JavaScript ES6](https://#)  |  Especializa TI |
+| **_0%_**  | [Carreira em JavaScript - JavaScript Event Loop](https://#)  |  Especializa TI |
+| **_0%_**  | [Carreira em JavaScript - Curso JavaScript Real (NPM, Webpack, ES6)](https://#)  |  Especializa TI |
+| **_0%_**  | [Carreira em JavaScript - Curso de Vue JS 2](https://#)  |  Especializa TI |
 | **_80%_**  | [Plano de Estudos- Iniciante em PHP](https://github.com/josemalcher/SchoolOfNet-Iniciante-em-PHP)  |  School of Net |
 | **_100%_** | [Desenvolvimento de temas para Wordpress](https://github.com/josemalcher/SchoolOfNet-Desenvolvimento-de-temas-para-Wordpress)  |   School of Net |
 | **_100%_** | [CodeIgniter I Programando elegantemente para a web](https://github.com/josemalcher/CodeIgniter-I-Programando-elegantemente-para-a-web)  |   ALURA |

@@ -38,7 +38,7 @@ Meus Resumos e práticas com a liguagem PHP.
 
 | **Status**  | **Nome/Repositório**  | **Obs.**  |
 |---|---|---|
-| **_0%_**  | [Plano de Estudos PHP/Laravel - Fundamentos da Programação com PHP](https://#)  |  Especializa TI |
+| **_100%_**  | [Plano de Estudos PHP/Laravel - Fundamentos da Programação com PHP](https://github.com/josemalcher/Plano-de-Estudos-PHP-Laravel-Fundamentos-da-Programacao-com-PHP)  |  Especializa TI |
 | **_0%_**  | [Plano de Estudos PHP/Laravel - Curso PHP OO (Além das Classes)](https://#)  |  Especializa TI |
 | **_0%_**  | [Plano de Estudos PHP/Laravel - Curso PHP PSRs (Boas Práticas)](https://#)  |  Especializa TI |
 | **_0%_**  | [Plano de Estudos PHP/Laravel - Curso PHP PDO](https://#)  |  Especializa TI |

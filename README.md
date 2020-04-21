@@ -40,9 +40,9 @@ Meus Resumos e práticas com a liguagem PHP.
 |---|---|---|
 | **_100%_** |   [Plano de Estudos PHP/Laravel - Fundamentos da Programação com PHP](https://github.com/josemalcher/Plano-de-Estudos-PHP-Laravel-Fundamentos-da-Programacao-com-PHP)  |  Especializa TI |
 | **_100%_**  |  [Plano de Estudos PHP/Laravel - Curso PHP OO (Além das Classes)](https://github.com/josemalcher/CURSO_PHP_OO_ALEM-DAS-CLASSES)  |  Especializa TI |
-| **_0%_**  |    [Plano de Estudos PHP/Laravel - Curso PHP PSRs (Boas Práticas)](https://github.com/josemalcher/CURSO_PHP_PSRS_BOAS_PRATICAS)  |  Especializa TI |
-| **_0%_**  |    [Plano de Estudos PHP/Laravel - Curso PHP PDO](https://github.com/josemalcher/CURSO_PHP_PDO)  |  Especializa TI |
-| **_0%_**  |    [Plano de Estudos PHP/Laravel - Curso PHP Composer](https://github.com/josemalcher/CURSO_PHP_COMPOSER)  |  Especializa TI |
+| **_100%_**  |    [Plano de Estudos PHP/Laravel - Curso PHP PSRs (Boas Práticas)](https://github.com/josemalcher/CURSO_PHP_PSRS_BOAS_PRATICAS)  |  Especializa TI |
+| **_40%_**  |    [Plano de Estudos PHP/Laravel - Curso PHP PDO](https://github.com/josemalcher/CURSO_PHP_PDO)  |  Especializa TI |
+| **_100%_**  |    [Plano de Estudos PHP/Laravel - Curso PHP Composer](https://github.com/josemalcher/CURSO_PHP_COMPOSER)  |  Especializa TI |
 | **_0%_**  |    [Plano de Estudos PHP/Laravel - Introdução ao Laravel](https://#)  |  Especializa TI |
 | **_0%_**  |    [Plano de Estudos PHP/Laravel - Laravel Relacionamento de Tabelas](https://#)  |  Especializa TI |
 | **_0%_**  |    [Plano de Estudos PHP/Laravel - Desenvolvendo um Sistema de Saldo em Laravel (básico/intermediário)](https://#)  |  Especializa TI |

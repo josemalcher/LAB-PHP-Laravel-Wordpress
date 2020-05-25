@@ -93,7 +93,9 @@ Meus Resumos e práticas com a liguagem PHP.
 | **Status**  | **Nome/Repositório**  | **Obs.**  |
 |---|---|---|
 | **_100%_** | [Wordpress Plugin Development from scratch for beginners](https://github.com/josemalcher/Wordpress_Plugin_Development_from_scratch_for_beginners)  | Online Web Tutor |
-| **_1%_**   | [Wordpress Plugin development using boilerplate for beginners](https://github.com/josemalcher/Wordpress_Plugin_development_using_boilerplate_for_beginners)  | Online Web Tutor |
+| **_100%_**   | [Wordpress Plugin development using boilerplate for beginners](https://github.com/josemalcher/Wordpress_Plugin_development_using_boilerplate_for_beginners)  | Online Web Tutor |
+eginners)  | Online Web Tutor |
+| **_1%_**   | [PROFESSIONAL WordPress® Plugin Development (2011)](https://github.com/josemalcher/PROFESSIONAL_WORDPRESS_PLUGIN_DEVELOPMENT)  | LIVRO/RESUMOS |
 
 ------------
 

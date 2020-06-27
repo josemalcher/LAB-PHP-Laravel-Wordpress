@@ -43,8 +43,8 @@ Meus Resumos e práticas com a liguagem PHP.
 | **_100%_**  |    [Plano de Estudos PHP/Laravel - Curso PHP PSRs (Boas Práticas)](https://github.com/josemalcher/CURSO_PHP_PSRS_BOAS_PRATICAS)  |  Especializa TI |
 | **_100%_**  |    [Plano de Estudos PHP/Laravel - Curso PHP PDO](https://github.com/josemalcher/CURSO_PHP_PDO)  |  Especializa TI |
 | **_100%_**  |    [Plano de Estudos PHP/Laravel - Curso PHP Composer](https://github.com/josemalcher/CURSO_PHP_COMPOSER)  |  Especializa TI |
-| **_60%_**  |    [Plano de Estudos PHP/Laravel - Introdução ao Laravel 5.3](https://github.com/josemalcher/CURSO-DE-LARAVEL-53-BASICO)  |  Especializa TI |
-| **_0%_**  |    [Plano de Estudos PHP/Laravel - Introdução ao Laravel 6](https://#)  |  Especializa TI |
+| **_100%_**  |    [Plano de Estudos PHP/Laravel - Introdução ao Laravel 5.3](https://github.com/josemalcher/CURSO-DE-LARAVEL-53-BASICO)  |  Especializa TI |
+| **_1%_**  |    [Plano de Estudos PHP/Laravel - Introdução ao Laravel 6](https://github.com/josemalcher/CURSO_DE_LARAVEL_6)  |  Especializa TI |
 | **_0%_**  |    [Plano de Estudos PHP/Laravel - Laravel Relacionamento de Tabelas](https://#)  |  Especializa TI |
 | **_0%_**  |    [Plano de Estudos PHP/Laravel - Desenvolvendo um Sistema de Saldo em Laravel (básico/intermediário)](https://#)  |  Especializa TI |
 | **_0%_**  |    [Plano de Estudos PHP/Laravel - Criar um sistema de reservas em Laravel (esse curso chega ao nível avançado)](https://#)  |  Especializa TI |
@@ -76,8 +76,8 @@ Meus Resumos e práticas com a liguagem PHP.
 | **_0%_**   | CRUD Básico com Bootstrap 4 , PHP e MySQL- GRATIS |   UDEMY  |
 | **_0%_**   | Introdução ao Laravel |   UDEMY  |
 | **_0%_**   | Curso de CodeIgniter 3: Desenvolva para web de forma Ágil |   UDEMY  |
-| **_50%_**   | [Orientação a Objetos com PHP - Crie 5 Projetos Práticos](https://github.com/josemalcher/udemy-Orientacao_a_Objetos_com_PHP_Crie_5_Projetos_Praticos) |   UDEMY  |
-| **_100%_**   | [Introdução ao PHPUnit com exemplo de TDD](https://github.com/josemalcher/Introducao-ao-PHPUnit-com-exemplo-de-TDD) |   UDEMY  |
+| **_50%_**  | [Orientação a Objetos com PHP - Crie 5 Projetos Práticos](https://github.com/josemalcher/udemy-Orientacao_a_Objetos_com_PHP_Crie_5_Projetos_Praticos) |   UDEMY  |
+| **_100%_** | [Introdução ao PHPUnit com exemplo de TDD](https://github.com/josemalcher/Introducao-ao-PHPUnit-com-exemplo-de-TDD) |   UDEMY  |
 | **_80%_**  | [Plano de Estudos- Iniciante em PHP](https://github.com/josemalcher/SchoolOfNet-Iniciante-em-PHP)  |  School of Net |
 | **_100%_** | [Desenvolvimento de temas para Wordpress](https://github.com/josemalcher/SchoolOfNet-Desenvolvimento-de-temas-para-Wordpress)  |   School of Net |
 | **_25%_**  | [PHP com Jquery](https://github.com/josemalcher/curso-php-com-jquery)  |   ASoluções Web  |

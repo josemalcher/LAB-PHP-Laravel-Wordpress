@@ -51,7 +51,7 @@ Meus Resumos e práticas com a liguagem PHP.
 | **_0%_**  |    [Plano de Estudos PHP/Laravel - Curso de Laravel Repositories (boas práticas com banco de dados)](https://#)  |  Especializa TI |
 | **_0%_**  |    [Plano de Estudos PHP/Laravel - Curso de Laravel Gráficos (criar gráficos)](https://#)  |  Especializa TI |
 | **_0%_**  |    [Outras Opções - Curso de Vue.js](https://#)  |  Especializa TI |
-| **_0%_**  |    [Outras Opções - Laravel APIs](https://#)  |  Especializa TI |
+| **10%_**  |    [Outras Opções - Laravel APIs](https://github.com/josemalcher/restful-web-services-com-laravel)  |  Especializa TI |
 | **_0%_**  |    [Outras Opções - Autenticar APIs com JWT](https://#)  |  Especializa TI |
 | **_0%_**  |    [Outras Opções - Laravel com Vue.js](https://#)  |  Especializa TI |
 | **_0%_**  |    [Sistemas Real-time - Curso de Vue.js (](https://#)  |  Especializa TI |

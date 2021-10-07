@@ -37,28 +37,28 @@ Meus Resumos e práticas com a liguagem PHP.
 | **Status**  | **Nome/Repositório**  | **Obs.**  |
 |---|---|---|
 | **_100%_**  |  [Fundamentos da Programação com PHP](https://github.com/josemalcher/Plano-de-Estudos-PHP-Laravel-Fundamentos-da-Programacao-com-PHP)  |  EspecializaTI - Iniciante |
-| **_100%_**  |  [Curso PHP PSRs (Boas Práticas)](https://github.com/josemalcher/CURSO_PHP_PSRS_BOAS_PRATICAS)  |  Especializa TI - Iniciante |
-| **_100%_**  |  [Curso PHP PDO](https://github.com/josemalcher/CURSO_PHP_PDO)  |  Especializa TI - Iniciante |
-| **_100%_**  |  [Curso PHP Composer](https://github.com/josemalcher/CURSO_PHP_COMPOSER)  |  Especializa TI - Iniciante |
-| **_100%_**  |  [Introdução ao Laravel 5.3](https://github.com/josemalcher/CURSO-DE-LARAVEL-53-BASICO)  |  Especializa TI - Iniciante|
-| **_100%_**  |  [Introdução ao Laravel 6](https://github.com/josemalcher/CURSO_DE_LARAVEL_6)  |  Especializa TI - Iniciante |
-| **_100%_**  |  [Curso PHP OO (Além das Classes)](https://github.com/josemalcher/CURSO_PHP_OO_ALEM-DAS-CLASSES)  |  Especializa TI - Intermediário |
-| **_100%_**  |  [Laravel APIs](https://github.com/josemalcher/restful-web-services-com-laravel)  |  Especializa TI - Intermediário |
-| **_0%_**  |    [Laravel Relacionamento de Tabelas](https://#)  |  Especializa TI |
-| **_0%_**  |    [Desenvolvendo um Sistema de Saldo em Laravel (básico/intermediário)](https://#)  |  Especializa TI |
-| **_0%_**  |    [Criar um sistema de reservas em Laravel (esse curso chega ao nível avançado)](https://#)  |  Especializa TI |
-| **_0%_**  |    [Curso de Laravel Repositories (boas práticas com banco de dados)](https://#)  |  Especializa TI |
-| **_0%_**  |    [Curso de Laravel Gráficos (criar gráficos)](https://#)  |  Especializa TI |
-| **_0%_**  |    [Curso de Vue.js](https://#)  |  Especializa TI |
-| **_0%_**  |    [Autenticar APIs com JWT](https://#)  |  Especializa TI |
-| **_0%_**  |    [Laravel com Vue.js](https://#)  |  Especializa TI |
-| **_0%_**  |    [Curso de Vue.js (](https://#)  |  Especializa TI |
-| **_0%_**  |    [Curso de Laravel Notificações Real-time](https://#)  |  Especializa TI |
-| **_0%_**  |    [Curso de Laravel Real-time (chat)](https://#)  |  Especializa TI |
-| **_0%_**  |    [Curso Deploy na Digital Ocean (2019)](https://#)  |  Especializa TI |
-| **_0%_**  |    [Curso Laravel Multi-Tenancy Single Database](https://#)  |  Especializa TI |
-| **_0%_**  |    [Curso Laravel Multi-Tenancy Single Database (v2: subdomínio)](https://#)  |  Especializa TI |
-| **_0%_**  |    [Curso Laravel Multi-Tenancy Multi Database](https://#)  |  Especializa TI |
+| **_100%_**  |  [Curso PHP PSRs (Boas Práticas)](https://github.com/josemalcher/CURSO_PHP_PSRS_BOAS_PRATICAS)  |  EspecializaTI - Iniciante |
+| **_100%_**  |  [Curso PHP PDO](https://github.com/josemalcher/CURSO_PHP_PDO)  |  EspecializaTI - Iniciante |
+| **_100%_**  |  [Curso PHP Composer](https://github.com/josemalcher/CURSO_PHP_COMPOSER)  |  EspecializaTI - Iniciante |
+| **_100%_**  |  [Introdução ao Laravel 5.3](https://github.com/josemalcher/CURSO-DE-LARAVEL-53-BASICO)  |  EspecializaTI - Iniciante|
+| **_100%_**  |  [Introdução ao Laravel 6](https://github.com/josemalcher/CURSO_DE_LARAVEL_6)  |  EspecializaTI - Iniciante |
+| **_100%_**  |  [Curso PHP OO (Além das Classes)](https://github.com/josemalcher/CURSO_PHP_OO_ALEM-DAS-CLASSES)  |  EspecializaTI - Intermediário |
+| **_100%_**  |  [Laravel APIs](https://github.com/josemalcher/restful-web-services-com-laravel)  |  EspecializaTI - Intermediário |
+| **_0%_**  |    [Laravel Relacionamento de Tabelas](https://#)  |  EspecializaTI |
+| **_0%_**  |    [Desenvolvendo um Sistema de Saldo em Laravel ](https://#)  |  EspecializaTI |
+| **_0%_**  |    [Criar um sistema de reservas em Laravel ](https://#)  |  EspecializaTI |
+| **_0%_**  |    [Curso de Laravel Repositories (boas práticas com banco de dados)](https://#)  |  EspecializaTI |
+| **_0%_**  |    [Curso de Laravel Gráficos (criar gráficos)](https://#)  |  EspecializaTI |
+| **_0%_**  |    [Curso de Vue.js](https://#)  |  EspecializaTI |
+| **_0%_**  |    [Autenticar APIs com JWT](https://#)  |  EspecializaTI |
+| **_0%_**  |    [Laravel com Vue.js](https://#)  |  EspecializaTI |
+| **_0%_**  |    [Curso de Vue.js (](https://#)  |  EspecializaTI |
+| **_0%_**  |    [Curso de Laravel Notificações Real-time](https://#)  |  EspecializaTI |
+| **_0%_**  |    [Curso de Laravel Real-time (chat)](https://#)  |  EspecializaTI |
+| **_0%_**  |    [Curso Deploy na Digital Ocean (2019)](https://#)  |  EspecializaTI |
+| **_0%_**  |    [Curso Laravel Multi-Tenancy Single Database](https://#)  |  EspecializaTI |
+| **_0%_**  |    [Curso Laravel Multi-Tenancy Single Database (v2: subdomínio)](https://#)  |  EspecializaTI |
+| **_0%_**  |    [Curso Laravel Multi-Tenancy Multi Database](https://#)  |  EspecializaTI |
 | - | - | - |
 | **_100%_** |   [Rbtech CodeIgniter Essencial](https://github.com/josemalcher/rbtech-CodeIgniter-Essencial-2018)  |   Rbtech  |
 | - | - | - |

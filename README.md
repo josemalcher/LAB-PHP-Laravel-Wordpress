@@ -43,6 +43,7 @@ Meus Resumos e práticas com a liguagem PHP.
 | **_100%_**  |  [Introdução ao Laravel 5.3](https://github.com/josemalcher/CURSO-DE-LARAVEL-53-BASICO)  |  EspecializaTI - Iniciante|
 | **_100%_**  |  [Introdução ao Laravel 6](https://github.com/josemalcher/CURSO_DE_LARAVEL_6)  |  EspecializaTI - Iniciante |
 | **_100%_**  |  [Curso PHP OO (Além das Classes)](https://github.com/josemalcher/CURSO_PHP_OO_ALEM-DAS-CLASSES)  |  EspecializaTI - Intermediário |
+| **_100%_**  |  [CURSO INTRODUÇÃO AO LARAVEL 8](https://github.com/josemalcher/CURSO_INTRODUCAO_AO_LARAVEL_8)  |  EspecializaTI - Intermediário |
 | **_100%_**  |  [Laravel APIs](https://github.com/josemalcher/restful-web-services-com-laravel)  |  EspecializaTI - Intermediário |
 | **_0%_**  |    [Laravel Relacionamento de Tabelas](https://#)  |  EspecializaTI |
 | **_0%_**  |    [Desenvolvendo um Sistema de Saldo em Laravel ](https://#)  |  EspecializaTI |

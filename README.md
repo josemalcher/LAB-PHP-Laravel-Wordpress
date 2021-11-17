@@ -36,6 +36,11 @@ Meus Resumos e práticas com a liguagem PHP.
 
 | **Status**  | **Nome/Repositório**  | **Obs.**  |
 |---|---|---|
+| **_0%_**   | MVC com PHP: Entenda o padrão Model-View-Controller |   ALURA - PHP para web  |
+| **_0%_**   | Laravel parte 1: Produtividade no desenvolvimento web |   ALURA - PHP para web  |
+| **_0%_**   | Laravel parte 2: Trabalhando com Autenticação, Relacionamentos e Testes |   ALURA - PHP para web  |
+| **_0%_**   | Laravel parte 3: Eventos, filas, upload e e-mail |   ALURA - PHP para web  |
+| **_0%_**   | PHP e Selenium: Testes de ponta a ponta |   ALURA - PHP para web  |
 | **_100%_**  |  [Fundamentos da Programação com PHP](https://github.com/josemalcher/Plano-de-Estudos-PHP-Laravel-Fundamentos-da-Programacao-com-PHP)  |  EspecializaTI - Iniciante |
 | **_100%_**  |  [Curso PHP PSRs (Boas Práticas)](https://github.com/josemalcher/CURSO_PHP_PSRS_BOAS_PRATICAS)  |  EspecializaTI - Iniciante |
 | **_100%_**  |  [Curso PHP PDO](https://github.com/josemalcher/CURSO_PHP_PDO)  |  EspecializaTI - Iniciante |

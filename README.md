@@ -84,7 +84,6 @@ Meus Resumos e práticas com a liguagem PHP.
 | **_100%_** | [Introdução ao PHPUnit com exemplo de TDD](https://github.com/josemalcher/Introducao-ao-PHPUnit-com-exemplo-de-TDD) |   UDEMY  |
 | - | - | - |
 | **_80%_**  | [Plano de Estudos- Iniciante em PHP](https://github.com/josemalcher/SchoolOfNet-Iniciante-em-PHP)  |  School of Net |
-| **_100%_** | [Desenvolvimento de temas para Wordpress](https://github.com/josemalcher/SchoolOfNet-Desenvolvimento-de-temas-para-Wordpress)  |   School of Net |
 | - | - | - |
 | **_25%_**  | [PHP com Jquery](https://github.com/josemalcher/curso-php-com-jquery)  |   ASoluções Web  |
 | **_25%_**  | [AJAX COM PHP](https://github.com/josemalcher/Curso-asolucoesweb-AJAX-com-PHP)  |  Curso ASoluções Web  |
@@ -99,8 +98,10 @@ Meus Resumos e práticas com a liguagem PHP.
 
 | **Status**  | **Nome/Repositório**  | **Obs.**  |
 |---|---|---|
+| **_100%_** | [Criação de Plugins WordPress do Jeito Certo](https://github.com/josemalcher/Criacao-de-Plugins-WordPress-do-Jeito-Certo  | UDEMY |
 | **_100%_** | [Wordpress Plugin Development from scratch for beginners](https://github.com/josemalcher/Wordpress_Plugin_Development_from_scratch_for_beginners)  | Online Web Tutor |
 | **_100%_**   | [Wordpress Plugin development using boilerplate for beginners](https://github.com/josemalcher/Wordpress_Plugin_development_using_boilerplate_for_beginners)  | Online Web Tutor |
+| **_100%_** | [Desenvolvimento de temas para Wordpress](https://github.com/josemalcher/SchoolOfNet-Desenvolvimento-de-temas-para-Wordpress)  |   School of Net |
 | **_2%_**   | [PROFESSIONAL WordPress® Plugin Development (2011)](https://github.com/josemalcher/PROFESSIONAL_WORDPRESS_PLUGIN_DEVELOPMENT)  | LIVRO/RESUMOS |
 
 ------------

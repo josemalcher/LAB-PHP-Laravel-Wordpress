@@ -39,6 +39,7 @@ Meus Resumos e práticas com a liguagem PHP.
 | **_40%_**  |  [Laravel Mastery - CodeExperts](https://github.com/josemalcher/Laravel-Mastery-CodeExperts)  |  CodeExperts |
 | **_50%_**  |  [Laravel: Construindo APIs REST](https://github.com/josemalcher/Laravel_Construindo_APIs_REST)  |  CodeExperts UDEMY |
 | **_100%_**  |  [PHP Mastery](https://github.com/josemalcher/PHP-Mastery-CodeExperts)  |  CodeExperts  |
+| - | - | - |
 | **_100%_**  |  [Fundamentos da Programação com PHP](https://github.com/josemalcher/Plano-de-Estudos-PHP-Laravel-Fundamentos-da-Programacao-com-PHP)  |  EspecializaTI - Iniciante |
 | **_100%_**  |  [Curso PHP PSRs (Boas Práticas)](https://github.com/josemalcher/CURSO_PHP_PSRS_BOAS_PRATICAS)  |  EspecializaTI - Iniciante |
 | **_100%_**  |  [Curso PHP PDO](https://github.com/josemalcher/CURSO_PHP_PDO)  |  EspecializaTI - Iniciante |
@@ -98,7 +99,7 @@ Meus Resumos e práticas com a liguagem PHP.
 
 | **Status**  | **Nome/Repositório**  | **Obs.**  |
 |---|---|---|
-| **_100%_** | [Criação de Plugins WordPress do Jeito Certo](https://github.com/josemalcher/Criacao-de-Plugins-WordPress-do-Jeito-Certo  | UDEMY |
+| **_100%_** | [Criação de Plugins WordPress do Jeito Certo](https://github.com/josemalcher/Criacao-de-Plugins-WordPress-do-Jeito-Certo)  | UDEMY |
 | **_100%_** | [Wordpress Plugin Development from scratch for beginners](https://github.com/josemalcher/Wordpress_Plugin_Development_from_scratch_for_beginners)  | Online Web Tutor |
 | **_100%_**   | [Wordpress Plugin development using boilerplate for beginners](https://github.com/josemalcher/Wordpress_Plugin_development_using_boilerplate_for_beginners)  | Online Web Tutor |
 | **_100%_** | [Desenvolvimento de temas para Wordpress](https://github.com/josemalcher/SchoolOfNet-Desenvolvimento-de-temas-para-Wordpress)  |   School of Net |

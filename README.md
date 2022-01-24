@@ -68,6 +68,8 @@ Meus Resumos e práticas com a liguagem PHP.
 | **_100%_** |   [Rbtech CodeIgniter Essencial](https://github.com/josemalcher/rbtech-CodeIgniter-Essencial-2018)  |   Rbtech  |
 | - | - | - |
 | **_100%_** |   [Desenvolvimento de Plugins Para Wordpress - Crie 10 Plugins](https://github.com/josemalcher/udemy-desenvolvimento-de-plugins-para-wordpress-crie-10-plugins)  |   UDEMY |
+| **_0%_**   | WordPress para Desenvolvedores: Criação de Temas do Zero  |   UDEMY  |
+| **_0%_**   | Criação de Temas WordPress com WooCommerce: Curso Avançado  |   UDEMY  |
 | **_100%_** |   [Programando com o Framework PHP Codeigniter 3](https://github.com/josemalcher/UDEMY-Programando-com-o-Framework-PHP-Codeigniter-3)  |   UDEMY |
 | **_0%_**   |   [Estrutura de Dados Com PHP e SPL](https://github.com/josemalcher/Estrutura-de-Dados-Com-PHP-e-SPL)  |   UDEMY  |
 | **_100%_** |   [Completo de php 7](https://github.com/josemalcher/Udemy-Curso-Completo-de-php-7)  |   UDEMY  |

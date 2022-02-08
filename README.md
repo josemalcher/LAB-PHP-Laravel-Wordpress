@@ -38,7 +38,7 @@ Meus Resumos e práticas com a liguagem PHP.
 |---|---|---|
 | **_30%_**  |  [Laravel Mastery - CodeExperts](https://github.com/josemalcher/Laravel-Mastery-CodeExperts)  |  CodeExperts |
 | **_10%_**  |  [Laravel: Construindo APIs REST](https://github.com/josemalcher/Laravel_Construindo_APIs_REST)  |  CodeExperts UDEMY |
-| **_95%_**  |  [PHP Mastery](https://github.com/josemalcher/PHP-Mastery-CodeExperts)  |  CodeExperts  |
+| **_98%_**  |  [PHP Mastery](https://github.com/josemalcher/PHP-Mastery-CodeExperts)  |  CodeExperts  |
 | - | - | - |
 | **_100%_**  |  [Fundamentos da Programação com PHP](https://github.com/josemalcher/Plano-de-Estudos-PHP-Laravel-Fundamentos-da-Programacao-com-PHP)  |  EspecializaTI - Iniciante |
 | **_100%_**  |  [Curso PHP PSRs (Boas Práticas)](https://github.com/josemalcher/CURSO_PHP_PSRS_BOAS_PRATICAS)  |  EspecializaTI - Iniciante |
